@@ -53,7 +53,7 @@
 				<div class="ed_event_single_address_info">
 					<h4 class="">We will give you our best</h4>
 					<p class="ed_bottompadder40 ed_toppadder10">You can always reach us via following contact details. We will give our best to reach you as possible.</p>
-					<p>Phone: <span>1800-2202-0909</span></p>
+					<p>Address: <span>4083 37th St N, Fargo, ND 58102, US</span></p>
 					<p>Email: <a href="#">spacialdelivery860@gmail.com</a></p>
 					<p>Website: <a href="#">http://www.spacialdelivery.com</a></p>
 				</div>

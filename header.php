@@ -39,17 +39,15 @@ Purchase: http://themeforest.net/user/kamleshyadav
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-					<div class="pro_call">
-						<p>call now <i class="fa fa-volume-control-phone" aria-hidden="true"></i> 1800-2202-0909</p>
+						<div class="pro_call">
+						<p>Email <i class="fa fa-envelope" aria-hidden="true"></i>spacialdelivery860@gmail.com</p>
 					</div>
 
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 					<div class="ed_info_wrapper">
 						<ul>
-							<div class="pro_call">
-						<p>Email <i class="fa fa-envelope" aria-hidden="true"></i>spacialdelivery860@gmail.com</p>
-					</div>
+						
 						</ul>
 					</div>
 				</div>
