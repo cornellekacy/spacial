@@ -53,9 +53,9 @@
 				<div class="col-lg-3 col-md-3 col-sm-12">
 					<div class="widget text-widget">
 						<h4 class="widget-title">find us</h4>
-						<p><i class="fa fa-home" aria-hidden="true"></i> 141 N Prospect Ave, Bergenfield, NJ, 07621</p>
-						<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#">info@shifterlogistics.com</a></p>
-						<p><i class="fa fa-phone" aria-hidden="true"></i> 1800-2202-0909</p>
+						<p><i class="fa fa-home" aria-hidden="true"></i> 4083 37th St N, Fargo, ND 58102, US</p>
+						<p><i class="fa fa-envelope" aria-hidden="true"></i><a href="#">spacialdelivery860@gmail.com</a></p>
+						
 					</div>
 				</div>
 			</div>
