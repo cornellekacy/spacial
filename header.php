@@ -74,6 +74,7 @@ Purchase: http://themeforest.net/user/kamleshyadav
 					
 							<li><a href="services.php">Our Services</a></li>
 							<li><a href="testimonial.php">Testimonial</a></li>
+							<li><a href="partner.php">Our Partners</a></li>
 							<li><a href="track.php">Track Package</a></li>
 							<li><a href="backend/">Login</a></li>
 							
