@@ -21,7 +21,7 @@
 		</div>
 	</div>
 </div>
-<br><br><br> <br><hr>
+<h1 align="center" style="font-size: 80px">Our Partners</h1>
 <div class="container">
 	<div class="row">
 		<div class="col-lg-6">
