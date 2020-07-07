@@ -42,15 +42,14 @@ Purchase: http://themeforest.net/user/kamleshyadav
 					<div class="pro_call">
 						<p>call now <i class="fa fa-volume-control-phone" aria-hidden="true"></i> 1800-2202-0909</p>
 					</div>
+
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 					<div class="ed_info_wrapper">
 						<ul>
-							<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-							<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Google+"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
-							<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-							<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-							<li><a href="#" data-toggle="tooltip" data-placement="bottom" title="Whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+							<div class="pro_call">
+						<p>Email <i class="fa fa-envelope" aria-hidden="true"></i>spacialdelivery860@gmail.com</p>
+					</div>
 						</ul>
 					</div>
 				</div>
