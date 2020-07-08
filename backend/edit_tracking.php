@@ -165,10 +165,11 @@ if($_GET['id']) {
                                 <div class="form-group">
                                     <label>Shipment Status</label>
 
-                                    <select class="form-control" name="status">
-                                        <option value="In Progress">In Progress</option>
+                                  <option value="In Progress">In Progress</option>
                                         <option value="Delivered">Delivered</option>
-                                    </select>
+                                        <option value="On Hold">On Hold</option>
+                                        <option value="Proccessing">Proccessing</option>
+                                        <option value="Delayed">Delayed</option>
 
                                 </div>
                                 <div class="form-group">
